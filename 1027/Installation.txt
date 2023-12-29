@@ -1,0 +1,2 @@
+pipenv install scikit-image
+pipenv install lazy-loader
